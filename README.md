@@ -48,4 +48,4 @@ I built also a couple of personal projects, available on my GitHub profile, and 
 </a>
 </p>
 
-<img alt="GIF" height="160px" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" />
+<img alt="GIF" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg" />
