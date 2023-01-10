@@ -1,13 +1,7 @@
 <h1 align="center"><b>Hi , I'm Shahed Mridha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p >
-<<<<<<< HEAD
-I am a full stack developer, and currently I am working with the MERN stack. I develop professional-level web applications using this stack. I use the MERN stack because it is currently one of the best full stacks available. I developed several projects using them. I have an interest in learning Redux, Next JS, mongoose and other frameworks like Angular and Vue.
-
-I built also a couple of personal projects, available on my GitHub profile, and probably the list will grow in the future. I Love connecting with new people.asdfsad
-=======
 I am a full stack developer, and currently I am working with the MERN stack. I develop professional-level web applications using this stack. I use the MERN stack because it is currently one of the best full stacks available. I developed several projects using them. I have an interest in learning Redux, Next JS, mongoose and other frameworks like Angular and Vue. I Love connecting with new people.
->>>>>>> 3be5ab330339b27ac6a59b39f912abeb60ed337d
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -46,24 +40,15 @@ I am a full stack developer, and currently I am working with the MERN stack. I d
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<<<<<<< HEAD
-<div align="center">
-
-<a href="https://github.com/shahedmridhaa/">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahedmridhaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahedmridhaa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="shahedmridhaa"/>
-=======
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
->>>>>>> 3be5ab330339b27ac6a59b39f912abeb60ed337d
-
+<a href="https://github.com/shahedmridhaa/">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahedmridhaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahedmridhaa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="shahedmridhaa"/>
 </a>
 </div>
 
