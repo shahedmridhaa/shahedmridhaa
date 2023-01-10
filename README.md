@@ -3,7 +3,7 @@
 <p >
 I am a full stack developer, and currently I am working with the MERN stack. I develop professional-level web applications using this stack. I use the MERN stack because it is currently one of the best full stacks available. I developed several projects using them. I have an interest in learning Redux, Next JS, mongoose and other frameworks like Angular and Vue.
 
-I built also a couple of personal projects, available on my GitHub profile, and probably the list will grow in the future. I Love connecting with new people
+I built also a couple of personal projects, available on my GitHub profile, and probably the list will grow in the future. I Love connecting with new people.asdfsad
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
