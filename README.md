@@ -23,9 +23,9 @@ I am a full stack developer, and currently I am working with the MERN stack. I d
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-![Next Js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next)&nbsp;
+![Next Js](https://img.shields.io/badge/-Next-05122A?style=flat&logo=Next js)&nbsp;
 ![Express Js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
-![Node Js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node)&nbsp;
+![Node Js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node js)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind&logoColor=563D7C)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDb)&nbsp;
