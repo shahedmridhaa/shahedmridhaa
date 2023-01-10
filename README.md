@@ -1,5 +1,7 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Shahed Mridha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<p >
+I am a full stack developer, and currently I am working with the MERN stack. I develop professional-level web applications using this stack. I use the MERN stack because it is currently one of the best full stacks available. I developed several projects using them. I have an interest in learning Redux, Next JS, mongoose and other frameworks like Angular and Vue.
+
+I built also a couple of personal projects, available on my GitHub profile, and probably the list will grow in the future. I Love connecting with new people
 </p>
